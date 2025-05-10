@@ -1,28 +1,28 @@
-# Creator Dashboard
+# 📊 Creator Dashboard
 
 A comprehensive web application that allows content creators to manage their profile, earn credits, and interact with content through a personalized feed.
 
-## Features
+## 🚀 Features
 
-- **User Authentication**
+- ** 🔐 User Authentication**
   - Register/Login with JWT
   - Role-based access (User, Admin)
 
-- **Credit Points System**
+- ** 💳 Credit Points System**
   - Earn points for logging in daily, completing profile, and interacting with feed
   - Track credits on dashboard
   - Admin panel to view/update user credit balances
 
-- **Feed Aggregator**
+- ** 📰 Feed Aggregator**
   - Fetches posts from Twitter and Reddit
   - Displays them in a scrollable feed
   - Users can save, share, and report posts
 
-- **Dashboard**
+- ** 📈 Dashboard**
   - Users see credit stats, saved feeds, and recent activity
   - Admin sees user analytics and feed activity
 
-## Tech Stack
+## 🧰 Tech Stack
 
 ### Frontend
 - React.js
@@ -39,13 +39,13 @@ A comprehensive web application that allows content creators to manage their pro
 - JWT Authentication
 - Mongoose
 
-## Getting Started
+## 🛠️ Getting Started
 
 ### Prerequisites
 - Node.js (v14 or later)
 - MongoDB Atlas account (or local MongoDB setup)
 
-### Installation
+### 🛠️ Installation
 
 1. Clone the repository
 ```bash
@@ -82,7 +82,7 @@ npm run dev
 
 3. Access the application at `http://localhost:5173`
 
-## Demo User Accounts
+## ☁️ Demo User Accounts
 
 - **Admin Account**
   - Email: admin@example.com
@@ -150,6 +150,11 @@ creator-dashboard/
 - User activity monitoring
 - Content moderation tools
 
-## License
+## 📄 License
 
-This project is licensed under the MIT License.
+This project is for educational purposes. All APIs and external content are used under respective fair use/public terms.
+
+## 👤 Author
+
+- Name: Prateek Chandra
+- Project: Assignment 1 – Creator Dashboard
