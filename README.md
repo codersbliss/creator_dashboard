@@ -4,25 +4,25 @@ A comprehensive web application that allows content creators to manage their pro
 
 ## 🚀 Features
 
-- ** 🔐 User Authentication**
+- **🔐 User Authentication**
   - Register/Login with JWT
   - Role-based access (User, Admin)
 
-- ** 💳 Credit Points System**
+- **💳 Credit Points System**
   - Earn points for logging in daily, completing profile, and interacting with feed
   - Track credits on dashboard
   - Admin panel to view/update user credit balances
 
-- ** 📰 Feed Aggregator**
+- **📰 Feed Aggregator**
   - Fetches posts from Twitter and Reddit
   - Displays them in a scrollable feed
   - Users can save, share, and report posts
 
-- ** 📈 Dashboard**
+- **📈 Dashboard**
   - Users see credit stats, saved feeds, and recent activity
   - Admin sees user analytics and feed activity
 
-## 🧰 Tech Stack
+##  🧰 Tech Stack
 
 ### Frontend
 - React.js
@@ -39,7 +39,7 @@ A comprehensive web application that allows content creators to manage their pro
 - JWT Authentication
 - Mongoose
 
-## 🛠️ Getting Started
+##  🛠️ Getting Started
 
 ### Prerequisites
 - Node.js (v14 or later)
